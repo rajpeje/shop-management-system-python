@@ -1,0 +1,8 @@
+Install required Python Modules
+
+To create exe file of this python code:
+In windows,type this command in command prompt.
+cmd command: pyinstaller --onefile -F --hidden-import "babel.numbers" project_name.py
+
+add images that you want 
+
